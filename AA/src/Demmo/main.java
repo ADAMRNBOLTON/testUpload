@@ -8,6 +8,7 @@ public class main {
 		// TODO Auto-generated method stub
 		class Solution {
 		    public int solution(String S) {
+		    	System.out.println("Updated.");
 		        // write your code in Java SE 8
 		        Stack<Integer> stack=new Stack<Integer>();
 		        String [] ops = S.split(" ");
